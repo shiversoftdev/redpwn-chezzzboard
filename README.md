@@ -22,7 +22,7 @@ for e in range(10,25):
                         print(a, b, c, d, e)
 ```
 \
-From there, its just about choosing an arbitrary valid board and writing a script to move the pieces to their spots (or you can do it by hand if you like)\
+From there, its just about choosing an arbitrary valid board and writing a script to move the pieces to their spots (or you can do it by hand if you like)
 ```python
 from pwn import *
 
