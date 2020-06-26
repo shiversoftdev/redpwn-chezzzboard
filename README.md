@@ -11,7 +11,7 @@ Entering the subroutine shows a double for loop and a switch, with some subrouti
 In that image I already have the enum labeled, but during the challenge I had to search for the draw function and label based on the piece strings\
 ![cida3](/img/cida3.png)\
 \
-With this information, we are able to calculate an array of winning boards using this python script\
+With this information, we are able to calculate an array of winning boards using this python script
 ```python
 for e in range(10,25):
     for a in range(1,9):
